@@ -7,3 +7,6 @@
 - Exécutez `npm install` puis `npm start` dans le terminal de votre éditeur.
 
 # Démo du Site
+
+![Alt text](image-1.png)
+![Alt text](image.png)
