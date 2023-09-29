@@ -30,7 +30,7 @@ const Keyboard = () => {
   };
 
   const validateText = () => {
-    const validatedCodes = ["WELCOME", "IMHUNGRY23", "JAIDESCONTACTS", "TEST"];
+    const validatedCodes = ["WELCOME", "IMHUNGRY23", "JAIDESCONTACTS"];
     if(validatedCodes.includes(inputFieldValue)) {
       setShowModal(true)
     }
