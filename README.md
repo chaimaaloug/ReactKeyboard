@@ -16,4 +16,5 @@ Ce projet est une application web de clavier virtuel développée en utilisant R
 # Mobile démo
 
 <img width="1201" alt="image" src="./src/assets/mobile_demo_screen1.png">
+<img width="1201" alt="image" src="./src/assets/desktop_corect-code.png">
 <img width="1201" alt="image" src="./src/assets/mobile_incorrect-code.png">
