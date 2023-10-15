@@ -33,3 +33,15 @@
         }
     }
 }
+
+@media (max-width: 768px) {
+    .modal {
+      padding: 0px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .modal {
+      padding: 0px; 
+    }
+  }
