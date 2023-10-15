@@ -10,8 +10,8 @@ Ce projet est une application web de clavier virtuel développée en utilisant R
 
 # Desktop démo
 
-<img width="1201" alt="image" src="./src/assets/desktop_demo.png">
-<img width="1201" alt="image" src="./src/assets/desktop_corect-code.png">
+<img width="900" alt="image" src="./src/assets/desktop_demo.png">
+<img width="900" alt="image" src="./src/assets/desktop_corect-code.png">
 
 # Mobile démo
 
